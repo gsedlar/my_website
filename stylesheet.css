@@ -1,0 +1,32 @@
+
+#Navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f5f7a5;
+  }
+
+  .Nav_item {
+      float: left;
+  }
+
+  li a {
+      display: block;
+      color: rgb(40, 39, 42);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration:none;
+  }
+
+  li a:hover {
+      background-color: #fcfe51
+  }
+  
+  * {
+      font-family: Verdana;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
